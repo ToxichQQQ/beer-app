@@ -1,43 +1,43 @@
-.paginationContainer{
-    display: inline-block;
+.paginationContainer {
+  display: inline-block;
 }
 
-.paginationButton{
-    color: black;
-    float: left;
-    padding: 8px 16px;
-    text-decoration: none;
-    cursor: pointer;
+.paginationButton {
+  color: black;
+  float: left;
+  padding: 8px 16px;
+  text-decoration: none;
+  cursor: pointer;
 }
 
-.paginationButton:disabled{
-    pointer-events: none;
-    color: gray;
-    cursor: not-allowed;
+.paginationButton:disabled {
+  pointer-events: none;
+  color: gray;
+  cursor: not-allowed;
 }
 
-.paginationItem{
-    color: black;
-    float: left;
-    padding: 9px 16px;
-    text-decoration: none;
-    cursor: pointer;
-    background-color: transparent;
-    border:none;
-    margin: 0 5px;
+.paginationItem {
+  color: black;
+  float: left;
+  padding: 9px 16px;
+  text-decoration: none;
+  cursor: pointer;
+  background-color: transparent;
+  border: none;
+  margin: 0 5px;
 }
 
-.paginationItemActive{
-    color: white;
-    float: left;
-    padding: 9px 16px;
-    text-decoration: none;
-    cursor: pointer;
-    background-color: orange;
-    border:none;
-    margin: 0 5px;
+.paginationItemActive {
+  color: white;
+  float: left;
+  padding: 9px 16px;
+  text-decoration: none;
+  cursor: pointer;
+  background-color: orange;
+  border: none;
+  margin: 0 5px;
 }
 
-.paginationItem:hover{
-    background-color: #ddd;
+.paginationItem:hover {
+  background-color: #ddd;
 }

@@ -1,9 +1,9 @@
-.table{
-    padding: 15px 0;
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    grid-auto-rows: 300px;
-    grid-column-gap: 10px;
-    grid-row-gap: 1em;
+.table {
+  min-height: 500px;
+  padding: 15px 0;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-auto-rows: 300px;
+  grid-column-gap: 10px;
+  grid-row-gap: 1em;
 }
-
