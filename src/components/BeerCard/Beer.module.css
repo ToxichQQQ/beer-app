@@ -1,0 +1,28 @@
+.card{
+    position: relative;
+    cursor: pointer;
+}
+
+.abv{
+    position: absolute;
+    top: -5px;
+    right: 0;
+    width: 40px;
+    height: 40px;
+    background-color: orange;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 12px;
+}
+
+.img{
+    height: 150px;
+}
+
+.tagline{
+    font-style: italic;
+    color: gray;
+}

@@ -1,0 +1,17 @@
+.container{
+    padding: 60px 0;
+    margin: 0 auto;
+    width: 1000px;
+}
+
+.back{
+    text-shadow: -1px 0 orange, 0 1px orange, 1px 0 orange, 0 -1px orange;
+    color: black;
+    font-size: 20px;
+    font-weight: 700;
+    margin: 15px 0;
+    display: flex;
+    align-items: center;
+    justify-content:start;
+    cursor: pointer;
+}
